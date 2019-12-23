@@ -1,3 +1,8 @@
+# Clone Repo 
+```
+git clone https://github.com/protelescristata/Glimmer3_Docker
+cd Glimmer3_Docker
+```
 # Build and Run
 ```
 docker build -t glimmer3 .
